@@ -81,7 +81,7 @@ const j = function(a, b, c){
  	const numLength = function(number){
  		return (number.length);
  	}
- 			console.log(numLength("4604982"));
+ 			console.log(numLength("" + 4604982));
 
  //10th question 
  				
